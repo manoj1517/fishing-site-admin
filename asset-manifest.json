@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fishing-site-admin/static/css/main.9213b6dd.css",
+    "main.js": "/fishing-site-admin/static/js/main.874a7893.js",
+    "static/js/453.3c43e5e0.chunk.js": "/fishing-site-admin/static/js/453.3c43e5e0.chunk.js",
+    "index.html": "/fishing-site-admin/index.html",
+    "main.9213b6dd.css.map": "/fishing-site-admin/static/css/main.9213b6dd.css.map",
+    "main.874a7893.js.map": "/fishing-site-admin/static/js/main.874a7893.js.map",
+    "453.3c43e5e0.chunk.js.map": "/fishing-site-admin/static/js/453.3c43e5e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9213b6dd.css",
+    "static/js/main.874a7893.js"
+  ]
+}
